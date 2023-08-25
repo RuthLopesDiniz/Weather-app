@@ -1,0 +1,28 @@
+<div class="container" *ngIf="WeatherDatas">
+  <div class="upper-data">
+    <img src="../../../../../../../assets/sun.jpg" *ngIf="WeatherDatas.main.temp > 15">
+
+    <img src="../../../../../../../assets/cold1.jpg" *ngIf="WeatherDatas.main.temp <= 15">
+
+    <div class="weatherData">
+      <div class="location">{{WeatherDatas.name}}</div>
+
+      <div class="temperature">{{WeatherDatas.main.temp | number : "1.0-0"}}°C</div>
+    </div>
+  </div>
+
+    <div class="lower-data">
+      <div class="more-info-label">Mais informações
+        <div class="info-block">
+          <div class="info-block-label">
+            <fa-icon size="lg" [icon]="minTemperatureIcon"></fa-icon>
+              <span>Mínima</span>
+          </div>
+
+            <div class="info-block-value">
+              {{WeatherDatas.main.temp_min}}
+            </div>
+        </div>
+      </div>
+    </div>
+</div>
