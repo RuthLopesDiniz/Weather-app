@@ -10,7 +10,7 @@ import { Component, Input, OnInit } from '@angular/core';
 
 export class WeatherCardComponent{
   @Input() WeatherDatas!: WeatherDatas;
-  //dados de previsão recebidos pelo compnente pai
+  //dados de previsão recebidos pelo componente pai
 
   minTemperatureIcon = faTemperatureLow;
   maxTemperatureIcon = faTemperatureHigh;

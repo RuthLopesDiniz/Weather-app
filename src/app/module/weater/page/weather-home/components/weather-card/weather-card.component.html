@@ -4,15 +4,17 @@
 
     <img src="../../../../../../../assets/cold1.jpg" *ngIf="WeatherDatas.main.temp <= 15">
 
-    <div class="weatherData">
+    <div class="weather-data">
       <div class="location">{{WeatherDatas.name}}</div>
 
-      <div class="temperature">{{WeatherDatas.main.temp | number : "1.0-0"}}°C</div>
+      <div class="temperature">{{WeatherDatas.main.temp | number: "1.0-0"}}°C</div>
     </div>
   </div>
 
     <div class="lower-data">
-      <div class="more-info-label">Mais informações
+      <div class="more-info-label">Mais informações</div>
+
+      <div class="more-info-container">
         <div class="info-block">
           <div class="info-block-label">
             <fa-icon size="lg" [icon]="minTemperatureIcon"></fa-icon>
