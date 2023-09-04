@@ -42,4 +42,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <p>HTML</p>
 <p>CSS</p>
 <p>JAVASCRIPT</p>
-<a target="_blank" href="https://previsiontime.netlify.app/weather" >Clique aqui para ver projeto publicado!</a>
+<a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
