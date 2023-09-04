@@ -36,10 +36,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   <br>
   <img width="450px" src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/Tela%20responsiva.PNG?raw=true">
 </div>
-<a hreaf:"https://previsiontime.netlify.app/weather">Clique para ver o site no ar.</a>
 
 <h3>Ferramentas utilizadas:</h3>
 <p>Angular</p>
 <p>HTML</p>
 <p>CSS</p>
 <p>JAVASCRIPT</p>
+<a target="_blank" href="https://previsiontime.netlify.app/weather" >Clique aqui para ver projeto publicado!</a>
