@@ -32,6 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   Api usada para consumir e mostrar os dados da temperatura: https://openweathermap.org/api. </p>
 <br>
 <div align="center">
+  <a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
   <img src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/TelaPc.PNG?raw=true">
   <br>
   <img width="450px" src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/Tela%20responsiva.PNG?raw=true">
