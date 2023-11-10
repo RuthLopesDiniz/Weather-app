@@ -1,5 +1,23 @@
 # WeatherApp
 
+<h2 align="center">Aplicação de previsão do tempo </h2>
+
+<p>Olá, tudo bem com vocês? Este projeto foi desenvolvido usando o framework Angular. <br>
+  Api usada para consumir e mostrar os dados da temperatura: https://openweathermap.org/api. </p>
+<br>
+<div align="center">
+  <a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
+  <img src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/TelaPc.PNG?raw=true">
+  <br>
+  <img width="450px" src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/Tela%20responsiva.PNG?raw=true">
+</div>
+
+<h3>Ferramentas utilizadas:</h3>
+<p>Angular</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>JAVASCRIPT</p>
+<a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
@@ -26,21 +44,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 ## 
-<h1 align="center">Aplicação de previsão do tempo </h1>
 
-<p>Olá, tudo bem com vocês? Este projeto foi desenvolvido usando o framework Angular. <br>
-  Api usada para consumir e mostrar os dados da temperatura: https://openweathermap.org/api. </p>
-<br>
-<div align="center">
-  <a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
-  <img src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/TelaPc.PNG?raw=true">
-  <br>
-  <img width="450px" src="https://github.com/RuthLopesDiniz/Weather-app/blob/master/src/assets/Tela%20responsiva.PNG?raw=true">
-</div>
-
-<h3>Ferramentas utilizadas:</h3>
-<p>Angular</p>
-<p>HTML</p>
-<p>CSS</p>
-<p>JAVASCRIPT</p>
-<a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
