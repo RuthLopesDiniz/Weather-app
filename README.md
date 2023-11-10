@@ -17,7 +17,7 @@
 <p>HTML</p>
 <p>CSS</p>
 <p>JAVASCRIPT</p>
-<a target="_blank" href="https://previsiontime.netlify.app" >Clique aqui para ver projeto publicado!</a>
+<br><br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
